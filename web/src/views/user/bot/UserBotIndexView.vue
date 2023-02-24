@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import ContentFiled from "@/components/ContentFiled.vue";
+import ContentFiled from "@/components/ContentField.vue";
 
 export default {
   components: {
