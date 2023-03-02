@@ -1,13 +1,13 @@
 <template>
-  <ContentFiled> ranklist </ContentFiled>
+  <ContentField> 排行榜 </ContentField>
 </template>
 
 <script>
-import ContentFiled from "@/components/ContentField.vue";
+import ContentField from "../../components/ContentField.vue";
 
 export default {
   components: {
-    ContentFiled,
+    ContentField,
   },
 };
 </script>

@@ -1,13 +1,13 @@
 <template>
-  <ContentFiled> record </ContentFiled>
+  <ContentField> 对局列表 </ContentField>
 </template>
 
 <script>
-import ContentFiled from "@/components/ContentField.vue";
+import ContentField from "../../components/ContentField.vue";
 
 export default {
   components: {
-    ContentFiled,
+    ContentField,
   },
 };
 </script>

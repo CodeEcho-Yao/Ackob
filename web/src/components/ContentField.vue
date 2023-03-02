@@ -1,9 +1,9 @@
 <template>
   <div class="container content-field">
     <div class="card">
-      <dvi class="card-body">
+      <div class="card-body">
         <slot></slot>
-      </dvi>
+      </div>
     </div>
   </div>
 </template>
@@ -12,6 +12,6 @@
 
 <style scoped>
 div.content-field {
-  margin: 20px;
+  margin-top: 20px;
 }
 </style>

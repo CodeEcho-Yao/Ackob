@@ -1,13 +1,13 @@
 <template>
-  <ContentFiled> 404 </ContentFiled>
+  <ContentField> 404 Not Found </ContentField>
 </template>
 
 <script>
-import ContentFiled from "@/components/ContentField.vue";
+import ContentField from "../../components/ContentField.vue";
 
 export default {
   components: {
-    ContentFiled,
+    ContentField,
   },
 };
 </script>
